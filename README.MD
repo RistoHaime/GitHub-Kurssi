@@ -2,6 +2,7 @@
 
 - Tekijänä Risto Haime
 
-Tämässä repositoriossa on Kurssin tehtävä. Kurssin päiväkirja löytyy toisesta repositoriosta.
+Tässä repositoriossa on Kurssin tehtävä. Kurssin päiväkirja löytyy toisesta repositoriosta.
+
 
 [Päiväkirjat](https://github.com/RistoHaime/GitHub-Kurssi-Paivakirjat/tree/main)
