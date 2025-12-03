@@ -14,3 +14,15 @@ main {
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
 }
+
+#datetime {
+  background-color: white;
+  width: 300px;
+  margin: auto;
+  border: 1px solid grey;
+}
+body {
+  background-color: #ffffff;
+  opacity: 1;
+  background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #ffffff 40px ), repeating-linear-gradient( #FAF0E655, #FAF0E6 );
+}
